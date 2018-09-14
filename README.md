@@ -1,6 +1,10 @@
 # JavaSkype
 
 ## Recent changes
+Changes in *italic* are relative to this fork
+
+- *All fixes from [fabiodepin/JavaSkype](https://github.com/fabiodepin/JavaSkype), most notably [this one](https://github.com/delthas/JavaSkype/pull/46) ([#45](https://github.com/delthas/JavaSkype/issues/45))*
+- *Now supports contact requests ([#28](https://github.com/delthas/JavaSkype/issues/28))*
 - Now supports Microsoft accounts ([#24](https://github.com/Delthas/JavaSkype/issues/24))
 
 ## Introduction
